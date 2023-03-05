@@ -1,6 +1,6 @@
 public class Main {
     static int add(int a, int b) {
-        return 0;
+        return 0; // ahihi do ngoc
     }
 
     static int substract(int a,int b) {
