@@ -8,6 +8,7 @@ public class Main {
     }
 
     public static void main(String[] argvs) {
+	  // test 1
         System.out.println(add(1, 2));
         System.out.println(substract(3, 4));
     }
