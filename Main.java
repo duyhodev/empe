@@ -11,5 +11,7 @@ public class Main {
 	  // test 1 1
         System.out.println(add(1, 2));
         System.out.println(substract(3, 4));
+
+	  // test 2
     }
 }
