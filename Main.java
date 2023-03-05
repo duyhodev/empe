@@ -4,7 +4,7 @@ public class Main {
     }
 
     static int substract(int a,int b) {
-        return 0;
+        return 0; // hong ngoc
     }
 
     public static void main(String[] argvs) {
